@@ -1,17 +1,17 @@
-h1 { background-color:orange;
+h1 {color:orange;
 }
 #img1 {margin-left: 50%;}
 
-h2 { background-color:orange;
+h2 { color:orange;
 }
 
 
-h3 {background-color:blue;
+h3 {color:blue;
 }
 #img2 {margin-left: 50%;}
 
- h4 { background-color:blue;
+ h4 { color:blue;
  }
 #img3 {margin-left: 50%;}
- h5 { background-color:black
+ h5 { color:black
  }
